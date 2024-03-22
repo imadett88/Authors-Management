@@ -1,0 +1,12 @@
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\bin\Debug\net8.0\Post.Domain.deps.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\bin\Debug\net8.0\Post.Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\bin\Debug\net8.0\Post.Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\Post.Domain.csproj.AssemblyReference.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\Post.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\Post.Domain.AssemblyInfoInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\Post.Domain.AssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\Post.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\Post.Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\refint\Post.Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\Post.Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Domain\obj\Debug\net8.0\ref\Post.Domain.dll

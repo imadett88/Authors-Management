@@ -1,0 +1,17 @@
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\bin\Debug\net8.0\Post.Infrastructure.deps.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\bin\Debug\net8.0\Post.Infrastructure.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\bin\Debug\net8.0\Post.Infrastructure.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\bin\Debug\net8.0\Post.Application.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\bin\Debug\net8.0\Post.Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\bin\Debug\net8.0\Post.Application.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\bin\Debug\net8.0\Post.Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.AssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Inf.22DB57E2.Up2Date
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\refint\Post.Infrastructure.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\ref\Post.Infrastructure.dll
