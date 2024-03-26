@@ -42,3 +42,4 @@ C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.API\obj\Debug\net8.
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.API\obj\Debug\net8.0\Post.API.pdb
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.API\obj\Debug\net8.0\Post.API.genruntimeconfig.cache
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.API\obj\Debug\net8.0\ref\Post.API.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.API\obj\Debug\net8.0\Post.API.sourcelink.json

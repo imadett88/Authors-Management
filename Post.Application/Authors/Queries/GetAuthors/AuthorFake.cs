@@ -6,7 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Post.Application.Common.Mappings;
 
-using Post.Domain.Entity;
 
 namespace Post.Application.Authors.Queries.GetAuthors
 {

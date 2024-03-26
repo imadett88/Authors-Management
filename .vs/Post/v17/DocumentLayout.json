@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\authors\\queries\\getauthors\\authorfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\authors\\queries\\getauthors\\authorfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.infrastructure\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|solutionrelative:post.infrastructure\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3944A47-52D7-4FDB-B58B-DFBD52919653}|Post.Domain\\Post.Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.domain\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3944A47-52D7-4FDB-B58B-DFBD52919653}|Post.Domain\\Post.Domain.csproj|solutionrelative:post.domain\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|solutionrelative:post.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\common\\mappings\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5654DFE-1829-4DBC-924B-CA2106CD1F69}|Post.API\\Post.API.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5654DFE-1829-4DBC-924B-CA2106CD1F69}|Post.API\\Post.API.csproj|solutionrelative:post.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3944A47-52D7-4FDB-B58B-DFBD52919653}|Post.Domain\\Post.Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.domain\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3944A47-52D7-4FDB-B58B-DFBD52919653}|Post.Domain\\Post.Domain.csproj|solutionrelative:post.domain\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\authors\\queries\\getauthors\\getauthorquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\authors\\queries\\getauthors\\getauthorquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\authors\\handlers\\getauthorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\authors\\handlers\\getauthorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.infrastructure\\data\\authordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|solutionrelative:post.infrastructure\\data\\authordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthorFake.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Queries\\GetAuthors\\AuthorFake.cs",
-              "RelativeDocumentMoniker": "Post.Application\\Authors\\Queries\\GetAuthors\\AuthorFake.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Queries\\GetAuthors\\AuthorFake.cs",
-              "RelativeToolTip": "Post.Application\\Authors\\Queries\\GetAuthors\\AuthorFake.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "DocumentIndex": 2,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Post.API\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Post.API\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T14:29:08.842Z",
+              "WhenOpened": "2024-03-25T13:10:07.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Domain\\Entity\\Author.cs",
-              "RelativeDocumentMoniker": "Post.Domain\\Entity\\Author.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Domain\\Entity\\Author.cs",
-              "RelativeToolTip": "Post.Domain\\Entity\\Author.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "Post.Infrastructure\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\ConfigurationServices.cs",
+              "RelativeToolTip": "Post.Infrastructure\\ConfigurationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T08:24:47.8Z",
+              "WhenOpened": "2024-03-25T12:25:11.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConfigurationServices.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\ConfigurationServices.cs",
-              "RelativeDocumentMoniker": "Post.Application\\ConfigurationServices.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\ConfigurationServices.cs",
-              "RelativeToolTip": "Post.Application\\ConfigurationServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Post.Infrastructure\\Repository\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "Post.Infrastructure\\Repository\\AuthorRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T08:15:43.521Z"
+              "WhenOpened": "2024-03-25T09:31:20.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Common\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Post.Application\\Common\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Common\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "Post.Application\\Common\\Mappings\\MappingProfile.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAJAAAA",
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Domain\\Repository\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Post.Domain\\Repository\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Domain\\Repository\\IAuthorRepository.cs",
+              "RelativeToolTip": "Post.Domain\\Repository\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T15:24:42.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMapFrom.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Common\\Mappings\\IMapFrom.cs",
-              "RelativeDocumentMoniker": "Post.Application\\Common\\Mappings\\IMapFrom.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Common\\Mappings\\IMapFrom.cs",
-              "RelativeToolTip": "Post.Application\\Common\\Mappings\\IMapFrom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T15:16:18.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetAuthorHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Handlers\\GetAuthorHandler.cs",
-              "RelativeDocumentMoniker": "Post.Application\\Authors\\Handlers\\GetAuthorHandler.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Handlers\\GetAuthorHandler.cs",
-              "RelativeToolTip": "Post.Application\\Authors\\Handlers\\GetAuthorHandler.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T14:45:45.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T11:40:07.753Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetAuthorQuerys.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Queries\\GetAuthors\\GetAuthorQuerys.cs",
-              "RelativeDocumentMoniker": "Post.Application\\Authors\\Queries\\GetAuthors\\GetAuthorQuerys.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Queries\\GetAuthors\\GetAuthorQuerys.cs",
-              "RelativeToolTip": "Post.Application\\Authors\\Queries\\GetAuthors\\GetAuthorQuerys.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Title": "AuthorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\Data\\AuthorDbContext.cs",
+              "RelativeDocumentMoniker": "Post.Infrastructure\\Data\\AuthorDbContext.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\Data\\AuthorDbContext.cs",
+              "RelativeToolTip": "Post.Infrastructure\\Data\\AuthorDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T14:33:12.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T09:14:05.487Z"
             }
           ]
         }

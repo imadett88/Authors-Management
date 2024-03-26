@@ -13,3 +13,4 @@ C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Application\obj\Deb
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Application\obj\Debug\net8.0\refint\Post.Application.dll
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Application\obj\Debug\net8.0\Post.Application.pdb
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Application\obj\Debug\net8.0\ref\Post.Application.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Application\obj\Debug\net8.0\Post.Application.sourcelink.json

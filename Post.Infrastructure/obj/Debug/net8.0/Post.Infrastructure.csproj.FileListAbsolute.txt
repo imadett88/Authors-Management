@@ -15,3 +15,6 @@ C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\refint\Post.Infrastructure.dll
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.pdb
 C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\ref\Post.Infrastructure.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.sourcelink.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\bin\Debug\net8.0\Post.Infrastructure.runtimeconfig.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\Cl\Post\Post.Infrastructure\obj\Debug\net8.0\Post.Infrastructure.genruntimeconfig.cache

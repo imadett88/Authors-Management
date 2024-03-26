@@ -9,10 +9,6 @@
   <ItemGroup>
     <Folder Include="Common\Behaviours\" />
     <Folder Include="Common\Exceptions\" />
-    <Folder Include="Authors\Commands\CreateAuthor\" />
-    <Folder Include="Authors\Commands\DeleteAuthor\" />
-    <Folder Include="Authors\Commands\UpdateAuthor\" />
-    <Folder Include="Authors\Queries\GetAuthorById\" />
   </ItemGroup>
 
   <ItemGroup>
