@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.infrastructure\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|solutionrelative:post.infrastructure\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|solutionrelative:post.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5654DFE-1829-4DBC-924B-CA2106CD1F69}|Post.API\\Post.API.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5654DFE-1829-4DBC-924B-CA2106CD1F69}|Post.API\\Post.API.csproj|solutionrelative:post.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3944A47-52D7-4FDB-B58B-DFBD52919653}|Post.Domain\\Post.Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.domain\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3944A47-52D7-4FDB-B58B-DFBD52919653}|Post.Domain\\Post.Domain.csproj|solutionrelative:post.domain\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.infrastructure\\data\\authordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A0D4077-F62D-4377-BA23-CE4CBD95DEF8}|Post.Infrastructure\\Post.Infrastructure.csproj|solutionrelative:post.infrastructure\\data\\authordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5654DFE-1829-4DBC-924B-CA2106CD1F69}|Post.API\\Post.API.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.api\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5654DFE-1829-4DBC-924B-CA2106CD1F69}|Post.API\\Post.API.csproj|solutionrelative:post.api\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorController.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\AuthorController.cs",
-              "RelativeDocumentMoniker": "Post.API\\Controllers\\AuthorController.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\AuthorController.cs",
-              "RelativeToolTip": "Post.API\\Controllers\\AuthorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T13:10:07.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConfigurationServices.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\ConfigurationServices.cs",
-              "RelativeDocumentMoniker": "Post.Infrastructure\\ConfigurationServices.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\ConfigurationServices.cs",
-              "RelativeToolTip": "Post.Infrastructure\\ConfigurationServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
+              "Title": "ApiControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\ApiControllerBase.cs",
+              "RelativeDocumentMoniker": "Post.API\\Controllers\\ApiControllerBase.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\ApiControllerBase.cs",
+              "RelativeToolTip": "Post.API\\Controllers\\ApiControllerBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T12:25:11.278Z",
+              "WhenOpened": "2024-03-26T13:41:45.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\Repository\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "Post.Infrastructure\\Repository\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\Repository\\AuthorRepository.cs",
-              "RelativeToolTip": "Post.Infrastructure\\Repository\\AuthorRepository.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAwDIAAAAUAAAA",
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Post.API\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Post.API\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwvzkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T09:31:20.824Z",
+              "WhenOpened": "2024-03-25T13:10:07.802Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Domain\\Repository\\IAuthorRepository.cs",
-              "RelativeDocumentMoniker": "Post.Domain\\Repository\\IAuthorRepository.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Domain\\Repository\\IAuthorRepository.cs",
-              "RelativeToolTip": "Post.Domain\\Repository\\IAuthorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T11:40:07.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthorDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\Data\\AuthorDbContext.cs",
-              "RelativeDocumentMoniker": "Post.Infrastructure\\Data\\AuthorDbContext.cs",
-              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Infrastructure\\Data\\AuthorDbContext.cs",
-              "RelativeToolTip": "Post.Infrastructure\\Data\\AuthorDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T09:14:05.487Z"
             }
           ]
         }
