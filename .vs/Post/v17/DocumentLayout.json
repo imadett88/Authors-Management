@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\authors\\validation\\updateauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\authors\\validation\\updateauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\authors\\validation\\createauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\authors\\validation\\createauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250E4F74-3AA4-49E2-8504-FF287E0D4A5B}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5654DFE-1829-4DBC-924B-CA2106CD1F69}|Post.API\\Post.API.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\cl\\post\\post.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5654DFE-1829-4DBC-924B-CA2106CD1F69}|Post.API\\Post.API.csproj|solutionrelative:post.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,24 +30,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateAuthorCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Validation\\UpdateAuthorCommandValidator.cs",
+              "RelativeDocumentMoniker": "Post.Application\\Authors\\Validation\\UpdateAuthorCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Validation\\UpdateAuthorCommandValidator.cs",
+              "RelativeToolTip": "Post.Application\\Authors\\Validation\\UpdateAuthorCommandValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:43:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CreateAuthorCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Validation\\CreateAuthorCommandValidator.cs",
+              "RelativeDocumentMoniker": "Post.Application\\Authors\\Validation\\CreateAuthorCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Authors\\Validation\\CreateAuthorCommandValidator.cs",
+              "RelativeToolTip": "Post.Application\\Authors\\Validation\\CreateAuthorCommandValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:10:37.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "Post.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "Post.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:03:19.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApiControllerBase.cs",
               "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\ApiControllerBase.cs",
               "RelativeDocumentMoniker": "Post.API\\Controllers\\ApiControllerBase.cs",
               "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\ApiControllerBase.cs",
               "RelativeToolTip": "Post.API\\Controllers\\ApiControllerBase.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:41:45.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:41:45.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AuthorController.cs",
               "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Cl\\Post\\Post.API\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "Post.API\\Controllers\\AuthorController.cs",
@@ -43,8 +93,7 @@
               "RelativeToolTip": "Post.API\\Controllers\\AuthorController.cs",
               "ViewState": "AQIAADEAAAAAAAAAAADwvzkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T13:10:07.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T13:10:07.802Z"
             }
           ]
         }
